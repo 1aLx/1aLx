@@ -11,7 +11,7 @@ Estudante do curso de Análise e Desenvolvimento de Sistemas no Centro Universit
 
  - 🎓 Passo meu tempo resolvendo desafios online e aprender com o mundo de cursos online.
  - 👦 Desde pequeno sou apaixonado por tecnologia e desde então venho evoluindo cada vez mais.
- - 👨‍💻 Todos os projetos estão aqui no [Github](https://github.com/1aLx)
+ - 👨‍💻 Todos os projetos estão aqui no [Github](https://github.com/1aLx).
 
 ## 👨🏻‍🔧 Ferramentas de estudo
 
