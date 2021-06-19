@@ -5,7 +5,6 @@ Estudante do curso de Análise e Desenvolvimento de Sistemas no Centro Universit
 
  - 🏡 Morando em Contagem - MG.
  - 💻 Full stack student.
- - 🎮 Nas horas vagas amo jogar VALORANT.
 
 ##  🙋🏽‍♂️Fatos sobre mim
 
