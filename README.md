@@ -4,7 +4,7 @@ Estudante do curso de Análise e Desenvolvimento de Sistemas no Centro Universit
 
 
  - 🏡 Morando em Contagem - MG.
- - 💻 Full stack student.
+ - 💻 Back-end student.
 
 ##  🙋🏽‍♂️Fatos sobre mim
 
