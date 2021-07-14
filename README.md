@@ -8,7 +8,7 @@ Estudante do curso de Análise e Desenvolvimento de Sistemas no Centro Universit
 
 ##  🙋🏽‍♂️Fatos sobre mim
 
- - 🎓 Passo meu tempo resolvendo desafios online e aprendendo com o mundo de cursos online.
+ - 🎓 Passo meu tempo resolvendo desafios e aprendendo com o mundo de cursos online.
  - 👦 Desde pequeno sou apaixonado por tecnologia e desde então venho evoluindo cada vez mais.
  - 👨‍💻 Todos os projetos estão aqui no [Github](https://github.com/1aLx)
 
