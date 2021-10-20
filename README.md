@@ -1,6 +1,6 @@
 # Hey 👋, I'm Alexandre Abreu
 
-Estudante do curso de Análise e Desenvolvimento de Sistemas no Centro Universitário - UNA,  campus Aimorés. 
+Estudante do curso de Análise e Desenvolvimento de Sistemas no Centro Universitário - Newton Paiva,  campus Aimorés. 
 
 
  - 🏡 Morando em Contagem - MG.
