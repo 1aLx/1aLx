@@ -10,7 +10,6 @@ Estudante do curso de Análise e Desenvolvimento de Sistemas no Centro Universit
 
  - 🎓 Passo meu tempo resolvendo desafios e construindo projetos.
  - 👦 Desde pequeno sou apaixonado por tecnologia e desde então venho evoluindo cada vez mais.
- - 👨‍💻 Perfil [Alura](https://cursos.alura.com.br/user/contatoalexandre95)
 
 ## 👨🏻‍🔧 Ferramentas
 
