@@ -9,7 +9,7 @@ Estudante do curso de Análise e Desenvolvimento de Sistemas no Centro Universit
 ##  🙋🏽‍♂️Fatos sobre mim
 
  - 🎓 Passo meu tempo resolvendo desafios e construindo projetos.
- - 👦 Desde pequeno sou apaixonado por tecnologia e desde então venho evoluindo cada vez mais.
+ - 👦 Desde pequeno sou apaixonado por tecnologia e então venho evoluindo cada vez mais.
 
 ## 👨🏻‍🔧 Ferramentas
 
